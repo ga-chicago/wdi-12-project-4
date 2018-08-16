@@ -1,18 +1,15 @@
-# Project-4
-
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
-# WDI Project 4: Group Project
+# WDI Project 4: Group Project: 
 
 **Build a web-based, CRUD application using Python and Django, in groups.**
 
-## Presentations will be due next Wednesday afternoon.
 
 ## Objectives
 
-### Build an app that has a RESTful API in django and create a single page React application that consumes your API.
+**Build an app that has a RESTful API in django and then create a single page React application that consumes your API.**
 
-
+**Presentations will be Wednesday (August 22, 2018) mid afternoon. **
 
 ## Tech Requirements
 
