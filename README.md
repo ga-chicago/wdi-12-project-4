@@ -2,7 +2,7 @@
 
 # WDI Project 4: Group Project: 
 
-**Build a web-based, CRUD application using Python and Django, in groups.**
+**Build a web-based, CRUD application using Python with Django and React, in groups.**
 
 ## Groups:
 
