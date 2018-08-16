@@ -62,7 +62,6 @@ The following are **requirements** for your Project 4 Proposal
     - The project's name and description and an explanation of what problem it solves and why it was made
     - Your wireframes and user stories
     - The technologies, APIs, and modules you used and a description of each
-    - Requirements for development, deployment, and installation
     - Forthcoming features you plan to add
     - Instructions for downloading the code and running it on localhost
     - A contributors section that list everyone that worked on the project
