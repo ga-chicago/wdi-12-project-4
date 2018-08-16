@@ -71,14 +71,8 @@ The following are **requirements** for your Project 4 Proposal
     - information about each end point: 
       - how to format requests (HTTP method? URL query string format? Information (or not) in the request body?)
       - structure and data in of the response expected from the API assuming a user follows the request format you specified
-    - Your wireframes and user stories
-    - The technologies, APIs, and modules you used and a description of each
-    - Requirements for development
-    - Requirements for installation
-    - Any things you plan to fix or features you plan to add
-    - Instructions for downloading the code and running it on localhost
     - A contributors section that list everyone that worked on the project
-    - A link to the deployed site
+    - A link to the deployed API
 - A presentation in class that:
     - Is 10 minutes in length
     - Is meaningful to someone who isn't a developer
