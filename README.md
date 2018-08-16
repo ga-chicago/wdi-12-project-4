@@ -44,6 +44,7 @@ The following are **requirements** for your Project 4 Proposal
 - **Wireframes** - detail the flow of your app through wireframes, viewable from the `README.md` for your front end React app
   * You can choose whether you want to whiteboard the wireframes or use some program.
 - Routes - design the HTTP route architecture of your app. This should look something like [this](https://cdn.lynda.com/video/159165-107-635293993475267315_338x600_thumb.jpg)
+- **User Stories** (and data flow) - You should have very explicit and granular user stories describing all the things a user could do and behavior they should expect. You should be able to connect your user stories directly to your React Components.  Your entire group (each member) should be able to clearly discuss the architecture of your app, and how the data it uses will among the components.
 - For this project we want you to use [Trello](trello.com). Give us a link to a trello board with all of your User Stories as items on the Trello board. Your collumns should be Todo, In Progress, and Complete. [Here's a good resource on using Trello for Kanban](https://blog.hubstaff.com/kanban-with-trello/)
   - Make sure the trello board is public so we can see it
   - Task management is *especially* crucial for group work. Spend some extra time on this and *use it throughout the project*
