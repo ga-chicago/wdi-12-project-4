@@ -83,7 +83,7 @@ The following are **requirements** for your Project 4 Proposal
     - Explains one or two technical challenges and how they were overcome
     - Explains which improvements you might make
     - Has been thought through (planned and maybe even rehearsed) beforehand
-    - Focuses on the MVP functionality you got built, and contains basically no prattling on about how you hoped to get something done but didn't, and frames things that aren't functional as forthcoming features.
+    - Focuses on the MVP functionality you got built, and contains basically no prattling on about what *doesn't* work or things you couldn't figure out or didn't get working, and frames things that aren't functional as forthcoming features.  Imagine: what if you were a venture capitalist that was using this presentation to decide whether or not to provide funding for a startup based around this product?  What if you were a senior manager basing a decision about whether to work another company on this presentation?  What if you were a hiring dev or hiring manager who was deciding whether or not to hire you based on this presentation?
 
 
 ## Help
