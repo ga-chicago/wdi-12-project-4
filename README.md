@@ -4,6 +4,11 @@
 
 **Build a web-based, CRUD application using Python and Django, in groups.**
 
+## Groups:
+
+* Steve Badal Justin
+* Jared Stevie Jay
+* Eugene Ron Alex David 
 
 ## Objectives
 
@@ -99,6 +104,8 @@ Expect to come up against a lot of what can *seem* like roadblocks. Resist the u
 Errors often provide the most valuable source of information about what we don't yet understand. Seeing an error as "it's not working" and randomly changing code until "it works" won't teach you anything. Spending time thoughtfully debugging issues is a fantastic investment that will lead to greater mastery and understanding.
 
 If you feel yourself getting frustrated or mad, take a walk! Get some tea! **Go outside for 10 minutes.** No one can think clearly when they are frustrated, and it will all be there for you when you get back. It's seriously better to take too many breaks than too few. 
+
+You don't know everything there is to know, and you never will. But you know how to do a **lot** of things, and we want you to focus on building from scratch using what you know. When you build the parts of an app yourself, you have much more of an understanding of how it works and how to integrate it in your app than if you mindlessly code along with a YouTube video and just hope it plugs in to your project. 
 
 ### Project Feedback + Evaluation
 
