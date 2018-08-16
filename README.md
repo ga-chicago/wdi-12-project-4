@@ -102,17 +102,17 @@ If you feel yourself getting frustrated or mad, take a walk! Get some tea! **Go 
 
 ### Project Feedback + Evaluation
 
-* __Project Workflow__: Did you complete the user stories, wireframes as specified above? Did you use source control (Git) as expected for the phase of the program you’re in (detailed above)? Did you submit your project via an issue ticket on GHE?
+* __Project Workflow__: Did you complete the user stories, wireframes, and other proposal requirements as specified above? Did you use source control (Git) as expected for the phase of the program you’re in (detailed above)? Did you use merging and branching in a meaningful way? Did you strive to have open and meaningful communcation and maintain a sensible project management pattern? 
 
 * __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
 
 * __Creativity__: Did you add a personal spin or creative element into your project submission?
 
-* __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors have in class? Do your READMEs have appropriate documentation?
+* __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, indentation, modularity, and semantic naming? Did you comment your code as your instructors have in class?
 
-* __Deployment__: Did you deploy your application to public urls using Heroku?
+* __Deployment__: Did you deploy your application to public URLs using Heroku?
 
-* __Presentation__: Note: this is not graded, but part of the project. Did you present your app, your code, and your project-making experience clearly and effectively to the class?
+* __Presentation__: Note: this is not graded this time, but is part of the project. Did you present your app, your code, and your project-making experience clearly and effectively to the class? See notes above. 
 
 * __Total__: Your instructors will give you a score for each section between:
 
@@ -131,4 +131,4 @@ Plagiarism is a serious offense and grounds for expulsion.
 
 You are encouraged to ask others, including students, instructors, and stackoverflow, for help. However, it is NOT ACCEPTABLE TO COPY another person's code and submit it as your own. More importantly, it is detrimental to your learning and growth.
 
-Small snipits of code that solve small problems taken from Stack Overflow are generally an exception to this rule. If you aren't sure, it is **your** responsibility to **ASK**. To be on the safe side, why not credit the person/ resource you got the code from in a comment, and let an instructor take a look at it. 
+Small snippets of code that solve small problems taken from Stack Overflow are generally an exception to this rule. If you aren't sure, it is **your** responsibility to **ASK**. To be on the safe side, why not credit the person/resource you got the code from in a comment, and let an instructor take a look at it. 
