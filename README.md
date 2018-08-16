@@ -83,8 +83,8 @@ The following are **requirements** for your Project 4 Proposal
     - Explains one or two technical challenges and how they were overcome
     - Explains which improvements you might make
     - Has been thought through (planned and maybe even rehearsed) beforehand
-    - Focuses on the MVP functionality you got built, and contains basically no prattling on about what *doesn't* work or things you couldn't figure out or didn't get working, and frames things that aren't functional as forthcoming features.  Imagine: what if you were a venture capitalist that was using this presentation to decide whether or not to provide funding for a startup based around this product?  What if you were a senior manager basing a decision about whether to work another company on this presentation?  What if you were a hiring dev or hiring manager who was deciding whether or not to hire you based on this presentation?
-
+    - Focuses on the MVP functionality you got built, and contains basically no prattling on about what *doesn't* work or things you couldn't figure out or didn't get working, and frames things that aren't functional as forthcoming features.  
+    - Imagine: what if this app was the main product a startup was going to offer and you were a venture capitalist that was using this presentation to decide whether or not to provide funding for a startup based on this presentation?  What if you were a senior manager basing a decision about whether to work with another company based on this presentation?  What if you were a hiring dev or hiring manager who was deciding whether or not to a presenter based on this presentation?  Give a presentation that you'd want to see if you were in one of those situations.  You may be in one of those situations some day. 
 
 ## Help
 Reach out to your peers! Collaborate! Help your fellow students! If you've done that, and still have been stuck for more than an hour, reach out to your instructors!
