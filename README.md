@@ -7,18 +7,18 @@
 
 ## Objectives
 
-**Build an app that has a RESTful API in django and then create a single page React application that consumes your API.**
+**Build and deploy an app that has a RESTful API in django and then create a single page React application that consumes your API.**
 
-**Presentations will be Wednesday (August 22, 2018) mid afternoon. **
+**Presentations will be Wednesday (August 22, 2018) mid afternoon.**
 
 ## Tech Requirements
 
 You will be expected to use the following technologies to implement this project:
 
-- **Django Restful APis**: A complete Django REST API
+- **Django RESTful APIs**: A complete Django REST API
 - **React**: A React application that consumes your API. 
 - **Model Relations**: Most have at least two models (*besides* users) that are related in some fashion.
-- **Postgres**: Your app will need to persist data. 
+- **PostgreSQL**: Your app will need to persist data. 
 - **Mobile First**: App most be styled mobile first, and use either a grid system of flexbox for positioning.
 
 - **API DOCS** - Must complete a `README.md` for your back end describing your api end points and their corresponding response
